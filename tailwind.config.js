@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        fundo1: "url('/hero-image-1.png')",
+        fundo1: "url('../hero-image-1.png')",
       },
       spacing: {
         450: '450px',

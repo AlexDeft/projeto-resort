@@ -691,7 +691,7 @@ video {
 }
 
 .bg-fundo1 {
-  background-image: url('/hero-image-1.png');
+  background-image: url('../hero-image-1.png');
 }
 
 .px-11 {
